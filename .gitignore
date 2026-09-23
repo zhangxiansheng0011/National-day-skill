@@ -1,0 +1,8 @@
+# Generated template output
+guoqing_templates/
+outputs/
+preview/
+
+# Archives and temporary files
+*.zip
+*.tmp
